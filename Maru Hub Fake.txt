@@ -4,7 +4,7 @@ wait(1)
 if game.PlaceId == 2753915549 or game.PlaceId == 4442272183 or game.PlaceId == 7449423635 then
 	local create = loadstring(game:HttpGet("https://raw.githubusercontent.com/cafehepho300/MaruCrack/main/Theme"))()
 	
-	local Window = create:Win("Maru Hub Premium Script")
+	local Window = create:Win("Xandar Hub Premium Script")
 	local Tap1 = Window:Taps("General")
     local Tap4 = Window:Taps("Combat")
 	local Tap2 = Window:Taps("Stats")
